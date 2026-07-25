@@ -70,10 +70,6 @@ God Mode, нескінченне HP, реали, корабель Jackdaw, те�
   &nbsp;
   <img src="04-economy.png" alt="Economy" width="48%"/>
 </p>
-<p align="center">
-  <img src="05-world.png" alt="World" width="86%"/>
-</p>
-
 
 ---
 
