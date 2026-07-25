@@ -71,9 +71,6 @@ God Mode, бесконечное HP, реалы, корабль Jackdaw, тел�
   <img src="screenshots/04-economy.png" alt="Economy — Add Money Money Multiplier Items" width="48%"/>
 </p>
 
-<p align="center">
-  <img src="screenshots/05-world.png" alt="World — Teleport Game Speed Wanted Level Time" width="86%"/>
-</p>
 
 ---
 
