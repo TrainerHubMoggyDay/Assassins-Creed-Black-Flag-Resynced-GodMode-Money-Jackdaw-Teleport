@@ -70,10 +70,6 @@ God Mode、无限生命、雷亚尔、Jackdaw 船只、传送、秒杀等功能�
   &nbsp;
   <img src="04-economy.png" alt="Economy" width="48%"/>
 </p>
-<p align="center">
-  <img src="05-world.png" alt="World" width="86%"/>
-</p>
-
 
 ---
 
