@@ -1,12 +1,12 @@
 # Трейнер Assassin's Creed Black Flag Resynced (ACBFResynced)
-### God Mode · Деньги · Телепорт · Jackdaw · Ваншот · BlackSails v1.3.0
+### God Mode · Деньги · Телепорт · Jackdaw · Ваншот · BlackSails v1.4.0
 
 **Languages / Языки:** [Русский](README.md) · [English](README.en.md) · [Українська](README.uk.md) · [简体中文](README.zh.md) · [Türkçe](README.tr.md) · [Español](README.es.md) · [Slovenščina](README.sl.md) · [Português](README.pt.md) · [Polski](README.pl.md) · [Indonesia](README.id.md) · [Deutsch](README.de.md) · [Français](README.fr.md)
 
 **Скачать трейнер Assassin's Creed Black Flag Resynced** от **TrainerHub MoggyDay**.
 
 Это трейнер **BlackSails** под сборку **ACBFResynced** (ремейк, не оригинал 2013).
-Актуальная версия: **v1.3.0**.
+Актуальная версия: **v1.4.0**.
 
 Читы: God Mode, бесконечное HP, реалы / деньги, корабль **Jackdaw**, телепорт, ваншот, бесконечные патроны, стелс, сброс розыска и многое другое.
 Интерфейс: **EN / RU** · процесс: `ACBlackFlag.exe` · Windows 10 / 11.
@@ -15,28 +15,27 @@
 
 
 <p align="center">
-  <a href="https://github.com/TrainerHubMoggyDay/Assassins-Creed-Black-Flag-Resynced-GodMode-Money-Jackdaw-Teleport/releases/download/v1.3.0/AC.Black.Flag.Resynced.BlackSails.Trainer.V1.3.0.zip">
-    <img src="https://img.shields.io/badge/%F0%9F%93%A5%20DOWNLOAD%20TRAINER-v1.3.0-22c55e?style=for-the-badge&labelColor=14532d" alt="Download"/>
+  <a href="https://github.com/TrainerHubMoggyDay/Assassins-Creed-Black-Flag-Resynced-GodMode-Money-Jackdaw-Teleport/releases/download/v1.4.0/AC.Black.Flag.Resynced.BlackSails.Trainer.V1.4.0.zip">
+    <img src="https://img.shields.io/badge/%F0%9F%93%A5%20DOWNLOAD%20TRAINER-v1.4.0-22c55e?style=for-the-badge&labelColor=14532d" alt="Download"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/TrainerHubMoggyDay/Assassins-Creed-Black-Flag-Resynced-GodMode-Money-Jackdaw-Teleport/releases/download/v1.3.0/AC.Black.Flag.Resynced.BlackSails.Trainer.V1.3.0.zip"><img src="https://img.shields.io/badge/Download-ZIP%20v1.3.0-22c55e?style=for-the-badge&logo=github&logoColor=white" alt="ZIP"/></a>
+  <a href="https://github.com/TrainerHubMoggyDay/Assassins-Creed-Black-Flag-Resynced-GodMode-Money-Jackdaw-Teleport/releases/download/v1.4.0/AC.Black.Flag.Resynced.BlackSails.Trainer.V1.4.0.zip"><img src="https://img.shields.io/badge/Download-ZIP%20v1.4.0-22c55e?style=for-the-badge&logo=github&logoColor=white" alt="ZIP"/></a>
   &nbsp;
-  <a href="https://github.com/TrainerHubMoggyDay/Assassins-Creed-Black-Flag-Resynced-GodMode-Money-Jackdaw-Teleport/releases/tag/v1.3.0"><img src="https://img.shields.io/badge/Release-v1.3.0-0ea5e9?style=for-the-badge&logo=github&logoColor=white" alt="Release"/></a>
+  <a href="https://github.com/TrainerHubMoggyDay/Assassins-Creed-Black-Flag-Resynced-GodMode-Money-Jackdaw-Teleport/releases/tag/v1.4.0"><img src="https://img.shields.io/badge/Release-v1.4.0-0ea5e9?style=for-the-badge&logo=github&logoColor=white" alt="Release"/></a>
   &nbsp;
-  <a href="https://youtu.be/UqLrj-KyjLs"><img src="https://img.shields.io/badge/YouTube-Demo-ff0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
+  <a href="https://youtu.be/UqLrj-KyjLs"><img src="https://img.shields.io/badge/YouTube-Test-ff0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
   &nbsp;
-  <a href="https://vgtimes.ru/games/assassins-creed-black-flag-resynced/files/96329-assassins-creed-black-flag-resynced.html"><img src="https://img.shields.io/badge/VGtimes-Post-0ea5e9?style=for-the-badge" alt="VGtimes"/></a>
+  <a href="https://github.com/TrainerHubMoggyDay"><img src="https://img.shields.io/badge/Org-TrainerHub%20MoggyDay-111827?style=for-the-badge&logo=github&logoColor=white" alt="Org"/></a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/game-Assassin's%20Creed%20IV%20Black%20Flag-111827"/>
-  <img src="https://img.shields.io/badge/build-ACBFResynced-0ea5e9"/>
-  <img src="https://img.shields.io/badge/brand-BlackSails-22c55e"/>
-  <img src="https://img.shields.io/badge/version-v1.3.0-22c55e"/>
-  <img src="https://img.shields.io/badge/UI-EN%20%7C%20RU-22c55e"/>
-  <img src="https://img.shields.io/badge/org-TrainerHub%20MoggyDay-0ea5e9"/>
+  <img src="https://img.shields.io/badge/game-AC%20Black%20Flag%20Resynced-c9a227"/>
+  <img src="https://img.shields.io/badge/brand-BlackSails-0ea5e9"/>
+  <img src="https://img.shields.io/badge/build-ACBFResynced-22c55e"/>
+  <img src="https://img.shields.io/badge/version-v1.4.0-22c55e"/>
+  <img src="https://img.shields.io/badge/UI-EN%20%7C%20RU-0ea5e9"/>
 </p>
 
 
@@ -44,14 +43,11 @@
 
 ## Скачать трейнер
 
-> Прямая ссылка на актуальный ZIP (**v1.3.0**):
+> Прямая ссылка на актуальный ZIP (**v1.4.0**):
 
-**→ [Скачать AC.Black.Flag.Resynced.BlackSails.Trainer.V1.3.0.zip](https://github.com/TrainerHubMoggyDay/Assassins-Creed-Black-Flag-Resynced-GodMode-Money-Jackdaw-Teleport/releases/download/v1.3.0/AC.Black.Flag.Resynced.BlackSails.Trainer.V1.3.0.zip)**
+**→ [Скачать AC.Black.Flag.Resynced.BlackSails.Trainer.V1.4.0.zip](https://github.com/TrainerHubMoggyDay/Assassins-Creed-Black-Flag-Resynced-GodMode-Money-Jackdaw-Teleport/releases/download/v1.4.0/AC.Black.Flag.Resynced.BlackSails.Trainer.V1.4.0.zip)**
 
-Релиз: **→ [v1.3.0](https://github.com/TrainerHubMoggyDay/Assassins-Creed-Black-Flag-Resynced-GodMode-Money-Jackdaw-Teleport/releases/tag/v1.3.0)**
-
-Также на **VGtimes**:  
-**→ [Пост / файл — Assassin's Creed Black Flag Resynced](https://vgtimes.ru/games/assassins-creed-black-flag-resynced/files/96329-assassins-creed-black-flag-resynced.html)**
+Релиз: **→ [v1.4.0](https://github.com/TrainerHubMoggyDay/Assassins-Creed-Black-Flag-Resynced-GodMode-Money-Jackdaw-Teleport/releases/tag/v1.4.0)**
 
 После скачивания: запусти игру → запусти трейнер → дождись `ACBlackFlag.exe` → включай функции.
 
@@ -59,20 +55,34 @@
 
 ## Changelog / История версий
 
-### [v1.3.0](https://github.com/TrainerHubMoggyDay/Assassins-Creed-Black-Flag-Resynced-GodMode-Money-Jackdaw-Teleport/releases/tag/v1.3.0) — актуально
+### [v1.4.0](https://github.com/TrainerHubMoggyDay/Assassins-Creed-Black-Flag-Resynced-GodMode-Money-Jackdaw-Teleport/releases/tag/v1.4.0) — актуально
+- Исправлен attach к `ACBlackFlag.exe` после сейва, выхода в меню и смены локаций
+- God Mode / Infinite HP стабильнее после катсцен, абордажа и быстрых перемещений
+- Money / Reales — фикс рассинхрона после покупок у торговцев и лута
+- Jackdaw (HP / Crew / Ammo / Damage) корректнее после выхода в открытое море
+- One Hit / Damage Multiplier надёжнее против элитных целей и боссов
+- Teleport — меньше сбоев после загрузки новых зон
+- Ubisoft Connect / client attach — дополнительная стабильность после v1.3.0
+- Stealth / Oxygen — реже сбрасываются при смене оружия и плавании
+- ZIP: [AC.Black.Flag.Resynced.BlackSails.Trainer.V1.4.0.zip](https://github.com/TrainerHubMoggyDay/Assassins-Creed-Black-Flag-Resynced-GodMode-Money-Jackdaw-Teleport/releases/download/v1.4.0/AC.Black.Flag.Resynced.BlackSails.Trainer.V1.4.0.zip)
+
+### [v1.3.0](https://github.com/TrainerHubMoggyDay/Assassins-Creed-Black-Flag-Resynced-GodMode-Money-Jackdaw-Teleport/releases/tag/v1.3.0)
 - Более быстрый и стабильный коннект к `ACBlackFlag.exe`
 - Стабильность тумблеров Kenway / Jackdaw / Combat
 - Проверка совместимости с актуальной сборкой ACBFResynced
-- Обновлены подробные README на 12 языках
 - ZIP: [AC.Black.Flag.Resynced.BlackSails.Trainer.V1.3.0.zip](https://github.com/TrainerHubMoggyDay/Assassins-Creed-Black-Flag-Resynced-GodMode-Money-Jackdaw-Teleport/releases/download/v1.3.0/AC.Black.Flag.Resynced.BlackSails.Trainer.V1.3.0.zip)
 
 ### [v1.2.0](https://github.com/TrainerHubMoggyDay/Assassins-Creed-Black-Flag-Resynced-GodMode-Money-Jackdaw-Teleport/releases/tag/v1.2.0)
-- Исправлен **Ubisoft Connect**
+- Исправлен Ubisoft Connect
 - ZIP: [AC.Black.Flag.Resynced.BlackSails.Trainer.V1.2.0.zip](https://github.com/TrainerHubMoggyDay/Assassins-Creed-Black-Flag-Resynced-GodMode-Money-Jackdaw-Teleport/releases/download/v1.2.0/AC.Black.Flag.Resynced.BlackSails.Trainer.V1.2.0.zip)
 
 ### [v1.1.0](https://github.com/TrainerHubMoggyDay/Assassins-Creed-Black-Flag-Resynced-GodMode-Money-Jackdaw-Teleport/releases/tag/v1.1.0)
 - Исправлен коннект для клиентов (иногда не подключалось к игре)
 - ZIP: [AC.Black.Flag.Resynced.BlackSails.Trainer.V1.1.0.zip](https://github.com/TrainerHubMoggyDay/Assassins-Creed-Black-Flag-Resynced-GodMode-Money-Jackdaw-Teleport/releases/download/v1.1.0/AC.Black.Flag.Resynced.BlackSails.Trainer.V1.1.0.zip)
+
+### [v1.0.0](https://github.com/TrainerHubMoggyDay/Assassins-Creed-Black-Flag-Resynced-GodMode-Money-Jackdaw-Teleport/releases/tag/v1.0.0)
+- Первый публичный релиз BlackSails
+- ZIP: [AC.Black.Flag.Resynced.BlackSails.Trainer.zip](https://github.com/TrainerHubMoggyDay/Assassins-Creed-Black-Flag-Resynced-GodMode-Money-Jackdaw-Teleport/releases/download/v1.0.0/AC.Black.Flag.Resynced.BlackSails.Trainer.zip)
 
 ---
 
@@ -82,21 +92,25 @@
 
 **→ [https://youtu.be/UqLrj-KyjLs](https://youtu.be/UqLrj-KyjLs)**
 
-<p align="center"><a href="https://youtu.be/UqLrj-KyjLs"><img src="https://img.youtube.com/vi/UqLrj-KyjLs/maxresdefault.jpg" alt="Assassin's Creed Black Flag Resynced trainer" width="860"/></a></p>
+
+<p align="center">
+  <a href="https://youtu.be/UqLrj-KyjLs"><img src="https://img.youtube.com/vi/UqLrj-KyjLs/maxresdefault.jpg" alt="AC Black Flag Resynced trainer test" width="860"/></a>
+</p>
+
 
 ---
 
 ## Скриншоты
 
 <p align="center">
-  <img src="screenshots/01-kenway.png" alt="Kenway God Mode Infinite Health Oxygen Stealth" width="48%"/>
+  <img src="screenshots/01-kenway.png" alt="Kenway God Mode Infinite HP Oxygen" width="48%"/>
   &nbsp;
-  <img src="screenshots/02-jackdaw.png" alt="Jackdaw Infinite Health Crew Ammo Ship Damage" width="48%"/>
+  <img src="screenshots/02-jackdaw.png" alt="Jackdaw Ship Infinite Health Ammo Crew" width="48%"/>
 </p>
 <p align="center">
-  <img src="screenshots/03-combat.png" alt="Combat Infinite Ammo One Hit Kill Damage Multiplier" width="48%"/>
+  <img src="screenshots/03-combat.png" alt="Combat One Hit Infinite Ammo" width="48%"/>
   &nbsp;
-  <img src="screenshots/04-economy.png" alt="Economy Add Money Money Multiplier Items" width="48%"/>
+  <img src="screenshots/04-economy.png" alt="Economy Money Teleport Wanted" width="48%"/>
 </p>
 
 
@@ -105,51 +119,32 @@
 ## Возможности трейнера
 
 ### Kenway (Эдвард Кенуэй)
-- God Mode / Ignore Hits — бессмертие / игнор урона
-- Infinite Health — бесконечное здоровье
-- Infinite Oxygen — бесконечный кислород
-- Infinite Remedy — бесконечные лекарства
-- Stealth Mode — режим стелса
-- Defense Multiplier — множитель защиты
-- Oxygen Drain Rate — скорость расхода кислорода
+- God Mode / Ignore Hits — бессмертие
+- Infinite Health / Oxygen / Remedy
+- Stealth Mode · Defense Multiplier · Oxygen Drain Rate
 
 ### Jackdaw (корабль)
-- Ship: Infinite Health — бесконечное HP корабля
-- Ship: Infinite Crews — бесконечная команда
-- Ship: Infinite Ammo — бесконечные патроны корабля
-- Ship: Instant Weapon Cooldown — мгновенная перезарядка орудий
-- Ship: Super Damage / One Hit Kills — супер урон / ваншот
-- Ship: Damage Multiplier — множитель урона
-- Ship: Defense Multiplier — множитель защиты корабля
+- Infinite Health / Crews / Ammo
+- Instant Weapon Cooldown
+- Super Damage / One Hit · Damage / Defense Multiplier
 
-### Combat (бой)
-- Infinite Ammo & Darts — бесконечные патроны и дротики
-- Infinite Smoke Bombs — бесконечные дымовые шашки
-- Easy Break Defense — лёгкий пробой защиты
-- Defense Gauge Damage Multiplier — множитель урона по шкале защиты
-- Super Damage / One Hit Kills — супер урон / ваншот
-- Damage Multiplier — множитель урона
+### Combat (Бой)
+- Infinite Ammo & Darts · Infinite Smoke Bombs
+- Easy Break Defense · One Hit · Damage Multiplier
 
-### Economy (экономика)
-- Add Money (реалы) — добавить деньги
-- Money Multiplier — множитель денег
-- Edit Selected Item Amount — изменить количество выбранного предмета
+### Economy (Экономика)
+- Add Money (реалы) · Money Multiplier · Edit Selected Item Amount
 
-### World (мир)
-- Clear Wanted Level — сбросить розыск
-- Freeze Time of Day — заморозить время суток
-- Daytime +1 Hour — время +1 час
-- Set Game Speed — скорость игры
-- Save Location — сохранить точку
-- Teleport to Saved Location — телепорт к сохранённой точке
-- Teleport to Marker Location — телепорт к маркеру
+### World (Мир)
+- Clear Wanted Level · Freeze Time · Daytime +1 Hour · Game Speed
+- Save Location · Teleport to Saved / Marker
 
 
 ---
 
 ## Как пользоваться
 
-1. Скачай ZIP по зелёной кнопке (**v1.3.0**)
+1. Скачай ZIP по зелёной кнопке (**v1.4.0**)
 2. Распакуй архив
 3. Запусти **Assassin's Creed IV Black Flag** (сборка **ACBFResynced**)
 4. Запусти трейнер BlackSails
@@ -175,60 +170,60 @@
 | Игра | Assassin's Creed IV: Black Flag |
 | Сборка | ACBFResynced |
 | Процесс | `ACBlackFlag.exe` |
-| Версия трейнера | **v1.3.0** |
+| Версия трейнера | **v1.4.0** |
 | ОС | Windows 10 / 11 |
 | Язык UI | EN / RU |
+| Org | [TrainerHub MoggyDay](https://github.com/TrainerHubMoggyDay) |
 
 ---
 
 ## Ссылки
 
-- **ZIP v1.3.0:** [https://github.com/TrainerHubMoggyDay/Assassins-Creed-Black-Flag-Resynced-GodMode-Money-Jackdaw-Teleport/releases/download/v1.3.0/AC.Black.Flag.Resynced.BlackSails.Trainer.V1.3.0.zip](https://github.com/TrainerHubMoggyDay/Assassins-Creed-Black-Flag-Resynced-GodMode-Money-Jackdaw-Teleport/releases/download/v1.3.0/AC.Black.Flag.Resynced.BlackSails.Trainer.V1.3.0.zip)
-- **Release:** [https://github.com/TrainerHubMoggyDay/Assassins-Creed-Black-Flag-Resynced-GodMode-Money-Jackdaw-Teleport/releases/tag/v1.3.0](https://github.com/TrainerHubMoggyDay/Assassins-Creed-Black-Flag-Resynced-GodMode-Money-Jackdaw-Teleport/releases/tag/v1.3.0)
+- **ZIP v1.4.0:** [https://github.com/TrainerHubMoggyDay/Assassins-Creed-Black-Flag-Resynced-GodMode-Money-Jackdaw-Teleport/releases/download/v1.4.0/AC.Black.Flag.Resynced.BlackSails.Trainer.V1.4.0.zip](https://github.com/TrainerHubMoggyDay/Assassins-Creed-Black-Flag-Resynced-GodMode-Money-Jackdaw-Teleport/releases/download/v1.4.0/AC.Black.Flag.Resynced.BlackSails.Trainer.V1.4.0.zip)
+- **Release:** [https://github.com/TrainerHubMoggyDay/Assassins-Creed-Black-Flag-Resynced-GodMode-Money-Jackdaw-Teleport/releases/tag/v1.4.0](https://github.com/TrainerHubMoggyDay/Assassins-Creed-Black-Flag-Resynced-GodMode-Money-Jackdaw-Teleport/releases/tag/v1.4.0)
 - **Repo:** [https://github.com/TrainerHubMoggyDay/Assassins-Creed-Black-Flag-Resynced-GodMode-Money-Jackdaw-Teleport](https://github.com/TrainerHubMoggyDay/Assassins-Creed-Black-Flag-Resynced-GodMode-Money-Jackdaw-Teleport)
 - **Org:** [https://github.com/TrainerHubMoggyDay](https://github.com/TrainerHubMoggyDay)
 - **YouTube:** [https://youtu.be/UqLrj-KyjLs](https://youtu.be/UqLrj-KyjLs)
-- **VGtimes:** [https://vgtimes.ru/games/assassins-creed-black-flag-resynced/files/96329-assassins-creed-black-flag-resynced.html](https://vgtimes.ru/games/assassins-creed-black-flag-resynced/files/96329-assassins-creed-black-flag-resynced.html)
 
 ---
 
 ## FAQ
 
 **Где скачать актуальную версию?**  
-Зелёная кнопка сверху или прямая ссылка на ZIP v1.3.0. Также есть пост на VGtimes и видео на YouTube.
+Зелёная кнопка сверху или прямая ссылка на ZIP v1.4.0 от TrainerHub MoggyDay.
 
-**Что нового в v1.3.0?**  
-Более стабильный attach к `ACBlackFlag.exe`, стабильность тумблеров, совместимость с актуальной сборкой Resynced. В v1.2.0 был фикс Ubisoft Connect.
+**Что нового в v1.4.0?**  
+Фикс attach, стабильность God Mode / Money / Jackdaw / One Hit / Teleport, Ubisoft Connect.
 
 **Есть God Mode / деньги / телепорт / Jackdaw?**  
-Да — категории Kenway, Jackdaw, Combat, Economy, World. Смотри список возможностей и видео.
+Да — Kenway, Jackdaw, Combat, Economy, World.
 
-**Русский язык есть?**  
-Да, переключатель **RU** внизу окна трейнера.
+**Русский язык?**  
+Да — переключатель **RU**.
 
-**Это для оригинала 2013 или для Resynced?**  
-Только для **ACBFResynced** (ремейк). Не для классического Black Flag 2013.
+**Оригинал 2013 или Resynced?**  
+Только **ACBFResynced** (ремейк). Не для классического Black Flag 2013.
 
 **Можно ли в онлайн / мультиплеер?**  
-Нет. Только одиночная / offline. Онлайн запрещён.
+Нет. Только одиночная / offline.
 
 ---
 
 ## Дисклеймер
 
-Проект для одиночной игры и ознакомления. Автор и [TrainerHub MoggyDay](https://github.com/TrainerHubMoggyDay) не несут ответственности за использование. Не используйте в онлайне / мультиплеере.
+Только для одиночной / offline. Автор и [TrainerHub MoggyDay](https://github.com/TrainerHubMoggyDay) не несут ответственности. Не используйте в онлайне / мультиплеере.
 
 ---
 
-<p align="center"><a href="https://github.com/TrainerHubMoggyDay/Assassins-Creed-Black-Flag-Resynced-GodMode-Money-Jackdaw-Teleport/releases/download/v1.3.0/AC.Black.Flag.Resynced.BlackSails.Trainer.V1.3.0.zip"><img src="https://img.shields.io/badge/%F0%9F%93%A5%20DOWNLOAD%20ZIP%20v1.3.0-22c55e?style=for-the-badge&labelColor=14532d" alt="Download"/></a></p>
-<p align="center"><sub>ACBFResynced · BlackSails · Assassin's Creed IV Black Flag · TrainerHub MoggyDay · VGtimes</sub></p>
+<p align="center"><a href="https://github.com/TrainerHubMoggyDay/Assassins-Creed-Black-Flag-Resynced-GodMode-Money-Jackdaw-Teleport/releases/download/v1.4.0/AC.Black.Flag.Resynced.BlackSails.Trainer.V1.4.0.zip"><img src="https://img.shields.io/badge/%F0%9F%93%A5%20DOWNLOAD%20ZIP%20v1.4.0-22c55e?style=for-the-badge&labelColor=14532d" alt="Download"/></a></p>
+<p align="center"><sub>ACBFResynced · BlackSails · +v1.4.0 · TrainerHub MoggyDay</sub></p>
 
 ---
 
 ## SEO / Keywords
 
-`скачать трейнер Assassin's Creed Black Flag Resynced` · `Assassin's Creed Black Flag Resynced трейнер скачать` · `ACBFResynced трейнер` · `ACBFResynced читы` · `Black Flag Resynced трейнер` · `Black Flag Resynced читы` · `Black Flag Resynced взлом` · `Black Flag Resynced god mode` · `Black Flag Resynced бессмертие` · `Black Flag Resynced бесконечное HP` · `Black Flag Resynced деньги` · `Black Flag Resynced реалы` · `Black Flag Resynced бесконечные деньги` · `Black Flag Resynced Jackdaw` · `Jackdaw бесконечное HP` · `Jackdaw бесконечные патроны` · `Jackdaw команда` · `Black Flag Resynced телепорт` · `Black Flag Resynced ваншот` · `Black Flag Resynced бесконечные патроны` · `Black Flag Resynced кислород` · `Black Flag Resynced стелс` · `трейнер Assassin's Creed Black Flag Resynced бесплатно` · `Black Flag Resynced трейнер 2026` · `Black Flag ремейк трейнер` · `фикс Ubisoft Connect трейнер` · `BlackSails трейнер` · `ACBlackFlag.exe трейнер` · `скачать трейнер Black Flag Resynced v1.3.0` · `обновление трейнер Black Flag Resynced` · `читы Edward Kenway` · `читы Джекдоу` · `Assassin's Creed 4 Black Flag Resynced трейнер` · `TrainerHub MoggyDay` · `трейнер Black Flag Resynced скачать github` · `Black Flag Resynced дымовые шашки` · `Black Flag Resynced скорость игры` · `Black Flag Resynced убрать розыск` · `download Assassin's Creed Black Flag Resynced trainer` · `Assassin's Creed Black Flag Resynced trainer download` · `AC Black Flag Resynced trainer` · `ACBFResynced trainer` · `ACBFResynced cheats` · `Assassin's Creed IV Black Flag trainer` · `Assassin's Creed Black Flag Resynced cheats` · `Assassin's Creed Black Flag Resynced hack` · `Black Flag Resynced god mode` · `ACBFResynced god mode` · `Assassin's Creed Black Flag Resynced infinite health` · `Assassin's Creed Black Flag Resynced infinite HP` · `Assassin's Creed Black Flag Resynced money hack` · `Assassin's Creed Black Flag Resynced reales` · `Assassin's Creed Black Flag Resynced infinite money` · `Assassin's Creed Black Flag Resynced Jackdaw` · `Jackdaw infinite health` · `Jackdaw infinite ammo` · `Jackdaw infinite crew` · `Jackdaw one hit` · `Assassin's Creed Black Flag Resynced teleport` · `Assassin's Creed Black Flag Resynced one hit kill` · `Assassin's Creed Black Flag Resynced infinite ammo` · `Assassin's Creed Black Flag Resynced infinite oxygen` · `Assassin's Creed Black Flag Resynced stealth` · `Assassin's Creed Black Flag Resynced wanted clear` · `ACBlackFlag.exe trainer` · `Black Flag Resynced trainer 2026` · `free Assassin's Creed Black Flag Resynced trainer` · `Assassin's Creed Black Flag Remake trainer` · `AC4 Black Flag Resynced trainer` · `Black Flag Resynced Ubisoft Connect fix` · `BlackSails trainer` · `TrainerHub MoggyDay` · `download ACBFResynced trainer free` · `Assassin's Creed Black Flag Resynced cheat engine alternative` · `Assassin's Creed Black Flag Resynced mods cheats` · `Edward Kenway god mode` · `Edward Kenway infinite health` · `Black Flag ship cheats` · `Black Flag money multiplier` · `Black Flag teleport marker` · `v1.3.0 Assassin's Creed Black Flag Resynced trainer` · `Black Flag Resynced update trainer` · `Black Flag Resynced smoke bombs` · `Black Flag Resynced infinite darts` · `Black Flag Resynced game speed` · `Black Flag Resynced freeze time` · `Black Flag Resynced clear wanted` · `BlackSails v1.3.0 download` · `assassins creed black flag resynced trainer` · `acbf resynced cheats download` · `black flag remake trainer` · `black flag resynced money hack download` · `jackdaw trainer black flag` · `kenway godmode trainer` · `ac4 resynced cheat download free` · `black flag resynced no damage` · `black flag resynced infinite oxygen download` · `trainerhub moggyday black flag` · `black flag resynced v1.3.0` · `blacksails trainer download github` · `acbfresynced god mode money teleport`
+`скачать трейнер Assassin's Creed Black Flag Resynced` · `ACBFResynced трейнер` · `Black Flag Resynced трейнер скачать` · `BlackSails трейнер` · `ACBlackFlag.exe трейнер` · `Black Flag Resynced god mode` · `Black Flag Resynced деньги` · `Black Flag Resynced Jackdaw` · `Black Flag Resynced телепорт` · `Black Flag Resynced ваншот` · `фикс Ubisoft Connect трейнер` · `трейнер Black Flag Resynced бесплатно` · `TrainerHub MoggyDay` · `скачать трейнер Black Flag Resynced v1.4.0` · `обновление трейнер Black Flag Resynced` · `download Assassin's Creed Black Flag Resynced trainer` · `ACBFResynced trainer` · `Black Flag Resynced trainer download` · `BlackSails trainer` · `ACBlackFlag.exe trainer` · `Black Flag Resynced god mode` · `Black Flag Resynced money hack` · `Black Flag Resynced Jackdaw` · `Black Flag Resynced teleport` · `Black Flag Resynced one hit` · `AC4 Resynced cheats` · `Black Flag Resynced Ubisoft Connect fix` · `free Black Flag Resynced trainer` · `TrainerHub MoggyDay` · `Black Flag Resynced trainer v1.4.0` · `Assassin's Creed Black Flag Remake trainer` · `assassins creed black flag resynced trainer` · `acbfresynced cheats` · `blacksails trainer download` · `kenway god mode money jackdaw teleport` · `trainerhub moggyday black flag` · `black flag resynced v1.4.0`
 
 ### Дополнительные теги
 
-`assassins creed black flag resynced trainer` · `acbf resynced cheats download` · `black flag remake trainer` · `black flag resynced money hack download` · `jackdaw trainer black flag` · `kenway godmode trainer` · `ac4 resynced cheat download free` · `black flag resynced no damage` · `black flag resynced infinite oxygen download` · `trainerhub moggyday black flag` · `black flag resynced v1.3.0` · `blacksails trainer download github` · `acbfresynced god mode money teleport`
+`assassins creed black flag resynced trainer` · `acbfresynced cheats` · `blacksails trainer download` · `kenway god mode money jackdaw teleport` · `trainerhub moggyday black flag` · `black flag resynced v1.4.0`
